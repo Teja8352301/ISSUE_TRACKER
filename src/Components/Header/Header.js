@@ -7,7 +7,7 @@ class Header extends Component {
     return (
       <div className={classes.Header}>
         <Heading />
-        <Button>ADD NEW ITEM</Button>
+        <Button>ADD NEW ISSUE</Button>
       </div>
     );
   }
